@@ -52,7 +52,7 @@ public class MoveElementToEnd {
         } else
             return false;
     }
-
+ 
 
     static void IsPrime(int n) {
         if (n < 1) return;
